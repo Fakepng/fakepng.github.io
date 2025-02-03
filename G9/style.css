@@ -1,0 +1,21 @@
+.nav-link {
+  color: #ffffff;
+}
+
+.nav-link:hover {
+  color: #d4d4d4;
+}
+
+nav .active {
+  color: #ffffff !important;
+  font-weight: bold;
+}
+
+.text-white {
+  color: #ffffff !important;
+}
+
+.hero {
+  width: 100%;
+  background-color: #ffb770;
+}
